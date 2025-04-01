@@ -1,7 +1,7 @@
 
 ## Profile
-📞 **Email** | codefuling@gmail.com <br />
-✉ **Phone** | 010-4709-9813
+📞 **Email** | dun04045@gmail.com <br />
+✉ **Phone** | 010-2795-9393
 
 
 
