@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m **이재용 (whitepanguin)**
 
 > Java • Python • React • JavaScript • TypeScript • AI/ML
@@ -24,23 +23,23 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitepanguin&show_icons=true&theme=dark" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitepanguin&show_icons=true&theme=transparent" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitepanguin&layout=donut&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitepanguin&layout=donut" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=whitepanguin&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=whitepanguin" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whitepanguin&theme=darkhub&no-frame=true&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=whitepanguin&theme=flat&no-frame=true&column=6" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitepanguin&area=true&theme=github-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitepanguin&area=true" alt="activity graph" />
 </p>
 
 ---
@@ -52,8 +51,8 @@
 - 📈 **Data**: pandas, NumPy, scikit-learn  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whitepanguin&repo=REPO_NAME_1&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whitepanguin&repo=REPO_NAME_2&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whitepanguin&repo=REPO_NAME_1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whitepanguin&repo=REPO_NAME_2" />
 </p>
 
 ---
