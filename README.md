@@ -16,7 +16,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,redux,html,css,tailwind,nodejs,express,spring,postgres,mysql,mongodb,redis,git,github,linux,docker,aws,opencv,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,redux,html,css,tailwind,nodejs,express,spring,mysql,mongodb,git,github,aws,opencv,tensorflow,pytorch" />
 </p>
 
 ---
